@@ -2,4 +2,4 @@ OKT RESOLUSI
 - Konsisten untuk belajar web programming dari channel youtube web programming unpas setiap hari
 - Konsisten untuk belajar android
 - Test github
-- Test github dua
+- menghapus test github dua
